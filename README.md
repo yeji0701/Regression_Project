@@ -2,7 +2,7 @@ Regression_Project
 
 Predicting the Movie's Revenue and Audience with Linear Regression Model.
 =========================================================================
-When we have a data which we could know before a film was released, what would the Revenue and Audience of the film be?
+When having a data which we could know before a film was released, what would the Revenue and Audience of the film be predicted?
 We strove to find out the best Linear Regression Model to predict its Revenue and Audience.
 
 Prerequisites:
