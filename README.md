@@ -53,7 +53,7 @@ II. Data Visualization
 - Since Number of Screen has correlated closely to the Sales and Audience, the histogram of Screen is right skewed as well.
 - We could see that Top 5 Distributor are taking over this industry. 
 
-II. Testing model
+III. Testing model
 1. Label : Audience
 ![image](https://user-images.githubusercontent.com/72846750/102709442-0a74ab80-42ee-11eb-86a3-a2ba7eabfc0f.png)
 - Since Audience Data is placed with the outliers in upper fences, I supposed, if necessary, outliers will be elimated one by one within upper fences.
