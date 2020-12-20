@@ -49,7 +49,7 @@ I. Data Cleansing
 II. Data Visualization
 ![image](https://user-images.githubusercontent.com/72846750/102708827-b0bdb280-42e8-11eb-8d02-0b860dfac2da.PNG)
 - Two Histograms of Sales and Audience are right skewed, which means most of movies are struggling to be successful.
-  Plus, we will be in trouble to predict those two as imbalance data. 
+  Plus, we found ourselves in trouble to predict those two as imbalance data. 
 - Since Number of Screen has correlated closely to the Sales and Audience, the histogram of Screen is right skewed as well.
 - We could see that Top 5 Distributor are taking over this industry. 
 
