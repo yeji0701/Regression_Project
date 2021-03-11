@@ -48,7 +48,7 @@ II. Data Visualization
 
 III. Testing model
 - chose to  with a RMSE indication to see how much better the model is than just predicting without adequate data cleansing.
-- proceeded testing in 4 different ways:
+- proceeded testing in 4 different ways (code based on predicting Sales but same process was used for predicting Audience):
   * [Applying ordinal encoder on 'Rate' and 'Genre' (additionally 'Distributor' column for Audience label) columns](https://github.com/dss-15th/reg-repo-5/blob/master/1st_label_encoding.py)
   * [One-hot encoding 'Rate', 'Genre', 'Season', 'Year', 'Month' columns](https://github.com/dss-15th/reg-repo-5/blob/master/2nd_onehot_encoding.py)
   * [Removing outliers of quantile 25 and 75 in additional to one-hot encoding](https://github.com/dss-15th/reg-repo-5/blob/master/3rd_onehot_encoding%2Bremove_outliers.py)
